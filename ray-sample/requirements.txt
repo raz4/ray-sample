@@ -1,0 +1,3 @@
+ray[default,tune,rllib]
+tensorflow==2.4.1
+gym
